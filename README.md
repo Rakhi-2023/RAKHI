@@ -12,8 +12,8 @@ Token Rakhi Red BSC
 
 Whitepaper Token
 ==========================
-* Spanish: https://github.com/Rakhi-2023/RAKHI/edit/main/README.md
-* English: https://github.com/rki/blob/main/doc/whitepaper-en.md
+* Spanish: https://github.com/Rakhi-2023/RAKHI/blob/main/Whitepaper/rakhi-es.md
+* English: https://github.com/Rakhi-2023/RAKHI/blob/main/Whitepaper/rakhi-en.md
 
 Audit Docs
 =========================
