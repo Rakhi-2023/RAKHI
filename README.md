@@ -15,14 +15,6 @@ Whitepaper Token
 * Spanish: https://github.com/Rakhi-2023/RAKHI/blob/main/Whitepaper/rakhi-es.md
 * English: https://github.com/Rakhi-2023/RAKHI/blob/main/Whitepaper/rakhi-en.md
 
-Audit Docs
-=========================
-* https://github.com/rki/blob/main/doc/No2Acta-02CertificadoAuditoriarki5mayo2023.pdf
-* https://github.com/rki/blob/main/doc/rakhi-rki-audit_report.md
-
-### Audit Smartcontract LLC 
-Cert: https://github.com/smartcontractllc/audit/blob/main/cert/No2Acta-02CertificadoAuditoriarki5mayo2023.pdf
-
 ### Backup Company
 Rakhi.
 Web: https://www.rakhi.io/
