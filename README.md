@@ -19,3 +19,14 @@ Whitepaper Token
 ==========================
 Rakhi.
 * Web: https://www.rakhi.io/
+
+Token que se creo es ERC20 almacenado en la red de BSC
+
+•	Abreviatura: RKI
+•	Red: Binance Smart Chain (BSC)
+•	Network: Maint BSC
+•	Smart Contract: 0xd1245aD8E7d3a2727F2d592eb078930889AF4d65
+•	Total coin supply: 1.000.000 coins
+•	https://bscscan.com/token/0xd1245ad8e7d3a2727f2d592eb078930889af4d65 
+• Fecha creacion: 3 Febrero 2023
+
