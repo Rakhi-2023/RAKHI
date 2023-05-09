@@ -20,8 +20,8 @@ Whitepaper Token
 Rakhi.
 * Web: https://www.rakhi.io/
 
-Token que se creo es ERC20 almacenado en la red de BSC
-
+# Token ERC-20 almacenado en la red BSC 
+==========================
 * Abreviatura: RKI
 *	Red: Binance Smart Chain (BSC)
 *	Network: Maint BSC
